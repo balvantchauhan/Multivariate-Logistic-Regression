@@ -1,4 +1,4 @@
-# Multivariate-Logistic-Regression
+# Logistic Regression Telecom Churn Case Study
 
 # Problem Statment
 You have a telecom firm which has collected data of all its customers. The main types of attributes are:
